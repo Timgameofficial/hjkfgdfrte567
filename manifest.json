@@ -1,0 +1,17 @@
+{
+  "name": "Магический Шар — Magic 8 Ball",
+  "short_name": "Магический Шар",
+  "description": "Задай вопрос, потряси телефон — магический шар знает ответ.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0715",
+  "theme_color": "#0a0715",
+  "lang": "ru",
+  "icons": [
+    { "src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
